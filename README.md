@@ -11,7 +11,7 @@ I'm Russian software engineer, Matvey Avdeev. Apple & php hater.
 
 ## Working on 🕓
 - https://github.com/DrupalDoesNotExists/Constable
-- https://github.com/CodaMC/misc
+- EduID
 ---
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=seakness&theme=dark)
