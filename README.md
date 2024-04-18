@@ -3,15 +3,14 @@
         <a href="https://github.com/users/seakness/achievements/pull-shark"><img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Achievements" width=100px height=100px/></a>
 </div>
 
-I'm Russian software engineer, Matvey Avdeev. Apple & php hater.
+I'm Russian software engineer, Matvey Waltuh. Since 2019 I have been doing python development, since 2022 java development
 
 ## Languages and tools :hammer:
 - Java       == Bukkit (and forks)
 - Python     == Scripting, web development
 
 ## Working on 🕓
-- https://github.com/DrupalDoesNotExists/Constable
-- EduID
+- Quiet Please
 ---
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=seakness&theme=dark)
